@@ -20,11 +20,6 @@ La aplicación está construida bajo una estricta política de privacidad "Local
 * **Control del Usuario:** El usuario tiene el control total sobre sus datos.  Los registros individuales pueden ser eliminados en cualquier momento desde la interfaz. [cite: 7] Al desinstalar la aplicación o borrar los datos desde los ajustes del sistema operativo, toda la información se elimina de forma permanente e irrecuperable. [cite: 8]
 * **Permisos Mínimos:** La app solicita únicamente el permiso de notificaciones para programar alertas de la herramienta Recordatorios.  No se solicita acceso a la ubicación, contactos, cámara, micrófono ni archivos externos. 
 
-## 🛠️ Instalación y Desarrollo
-
-*(Nota: Agrega aquí las instrucciones para clonar el repositorio, las dependencias necesarias y cómo ejecutar el proyecto en Flutter/Dart).*
-
 ## 📄 Licencia
 
 Al utilizar o contribuir a LEN APP, comprendes y aceptas el manejo local y privado de la información.  
-*(Nota: Añade el tipo de licencia de código abierto que estés utilizando, como MIT o GPL).*
